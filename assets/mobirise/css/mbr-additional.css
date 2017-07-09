@@ -792,6 +792,9 @@ h6,
 #header3-1j H3 {
   color: #ffffff;
 }
+#content1-2c DIV {
+  color: #2b0680;
+}
 #features1-1m .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #553982;
 }
@@ -810,6 +813,10 @@ h6,
 }
 #msg-box5-1k H3 {
   color: #2b0680;
+}
+#header3-2d .mbr-section-title,
+#header3-2d .mbr-section-subtitle {
+  text-align: center;
 }
 #msg-box5-1o H3 {
   color: #2b0680;
